@@ -1,0 +1,11 @@
+env/
+test*/
+*.env
+*.json
+*.csv
+*.log
+*.exe
+static/
+*.ip*
+__pycache__/
+Chrome*/
